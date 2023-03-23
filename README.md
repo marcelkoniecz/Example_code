@@ -14,3 +14,4 @@ Wykonane zadania:\
   -Testy zostały napisane tylko dla punktu\
   -Zastanawiałem się nad klasą abstakcyjną z metodami Move oraz Rotate ale zdecydowałem że to jednak za mało metod żeby implementować taką klasę\
   -Nie stosować kodu na systemach embedded - zastosowanie biblioteki stl vector ( w przypadku systemów embedded wykorzystać bibliotekę etl)\
+  -Nie ma zabezpieczenia Vektora2D jeśli użytkownik wybierze ineks > 2
